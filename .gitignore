@@ -1,1 +1,5 @@
 build
+#Jetbrains
+.idea/
+cmake-build-debug/
+*.iml
